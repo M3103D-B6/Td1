@@ -33,3 +33,4 @@ while 1:
 	connectionSocket1.send(capitalizedSentence)
 	print capitalizedSentence
 	connectionSocket.close()
+		connectionSocket1.close()
